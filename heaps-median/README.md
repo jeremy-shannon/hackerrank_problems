@@ -1,4 +1,4 @@
-![Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem)
+[Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem)
 
 The median of a dataset of integers is the midpoint value of the dataset for which an equal number of integers are less than and greater than the value. To find the median, you must first sort your dataset of integers in non-decreasing order, then:
 
